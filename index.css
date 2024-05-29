@@ -1,20 +1,19 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
-    display: flex;
-    justify-content: center;
-    padding: 20px;
+    margin: auto;
 }
 
 .post {
     background-color: white;
-    width: 500px;
-    margin: 20px 0;
+    width: 460px;
+    margin: auto;
+    padding: 10px;
 }
 
 .post img {
-    width: 500px; 
-    height: 500px; 
+    width: 460px; 
+    height: 460px; 
     object-fit: cover;
 }
 
